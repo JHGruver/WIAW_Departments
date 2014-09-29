@@ -1,0 +1,89 @@
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #b0b0b0;
+    padding: 0;
+    margin: 0;
+}
+div.header{
+    width: 100%;
+}
+img.home{
+    width: 9.375%;
+    display: inline-block;
+    margin: 3%;
+    float: left;
+}
+h2.header{
+    width: 40%;
+    padding-top: 0;
+    margin-left: 36.71875%;
+    color: white;
+    font: 200 2em 'Open Sans';
+}
+h3{
+    width: 40%;
+    padding-top: 0;
+    margin-left: 34.375%;
+    color: white;
+    font: 300 1.5em 'Open Sans';
+}
+span.plus{
+    float: right;
+    margin-top: -20%;
+    margin-right: 2%;
+    font: 500 5em 'Open Sans';
+    color: white;
+}
+div.companySection{
+    width: 100%;
+    background-color: white;
+    padding-bottom: 31%;
+    padding-top: 31%;
+}
+div.selectedCompany{
+    font: 300 1.5em 'Open Sans';
+    border-top: 2px solid #b0b0b0;
+    border-bottom: 2px solid #b0b0b0;
+    display: flex;
+    justify-content: center;
+    padding: 4% 0.5%;
+    align-items: center;
+    color: #b0b0b0;
+}
+
+div.companyInfo{
+    width: 100%;
+    padding-bottom: 45.5%;
+}
+
+h2.noData{
+    font: 300 2em 'Open Sans';
+    color: white;
+    padding-left: 5%;
+}
+div.menu{
+    width: 100%;
+    background-color: #A3A3A3;
+}
+div.section{
+    display: inline-block;
+    width: 19%;
+    text-align: center;
+    padding-top: 3%;
+}
+i.fa{
+    font-size: 3em;
+    color: white;
+}
+p.icon{
+    font: 300 1.1em 'Helvetica Neue';
+    color: white;
+}
+div.departmentsMenu{
+    background-color: white;
+}
+i.departments, p.departments{
+    color: #A3A3A3;
+}
